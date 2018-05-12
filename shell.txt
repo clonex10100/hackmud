@@ -1,0 +1,258 @@
+
+<color=#9B9B9BFF>-terminal active-
+</color>
+<color=#9B9B9BFF>-authentication success-</color>
+
+<color=#FF0000FF>:::TRUST COMMUNICATION::: </color><color=#FF8000FF>Larceny</color>, <color=#0070DDFF>laundering</color>, <color=#9B9B9BFF>theft of currency and information</color>, <color=#CACACAFF>deception</color>, <color=#FF96E0FF>betrayal</color>, and <color=#FFF404FF>backstabbing</color> are all part of hackmud, and <color=#1EFF00FF>strongly encouraged</color>.
+
+<color=#FFFFFFFF>Discrimination, discriminatory language, and personal abuse are not. </color>
+<color=#FF0000FF>Violators will be removed.</color>
+Direct enquiries to conduct@hackmud.com
+
+Usage: <color=#9B9B9BFF>user</color> <color=#FF00ECFF>ÈusernameÉ</color>
+Your users: <color=#9B9B9BFF>clonex10100</color>, <color=#9B9B9BFF>dang19</color> (2 / 2)
+Retired users:  (0 / 5)
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>user </color>clonex10100</color>
+Active user is now <color=#9B9B9BFF>clonex10100</color>
+
+
+<color=#9B9B9BFF>-autocompletes added-</color>
+
+<color=#9B9B9BFF>-autocompletes added-</color>
+
+<color=#9B9B9BFF>-autocompletes added-</color>
+
+<color=#9B9B9BFF>-autocompletes added-</color>
+
+<color=#9B9B9BFF>-autocompletes added-</color>
+
+<color=#9B9B9BFF>-autocompletes added-</color>
+
+<color=#9B9B9BFF>-autocompletes added-</color>
+
+<color=#9B9B9BFF>-autocompletes added-</color>
+
+<color=#9B9B9BFF>-autocompletes added-</color>
+
+<color=#9B9B9BFF>-autocompletes added-</color>
+
+<color=#9B9B9BFF>-autocompletes added-</color>
+
+<color=#9B9B9BFF>-autocompletes added-</color>
+
+<color=#9B9B9BFF>-autocompletes added-</color>
+
+<color=#9B9B9BFF>-autocompletes added-</color>
+
+<color=#9B9B9BFF>-autocompletes added-</color>
+
+<color=#9B9B9BFF>-autocompletes added-</color>
+
+<color=#9B9B9BFF>-terminal poweroff-
+</color>
+<color=#9B9B9BFF>-terminal active-
+</color>
+<color=#9B9B9BFF>-authentication success-</color>
+
+<color=#FF0000FF>:::TRUST COMMUNICATION::: </color><color=#FF8000FF>Larceny</color>, <color=#0070DDFF>laundering</color>, <color=#9B9B9BFF>theft of currency and information</color>, <color=#CACACAFF>deception</color>, <color=#FF96E0FF>betrayal</color>, and <color=#FFF404FF>backstabbing</color> are all part of hackmud, and <color=#1EFF00FF>strongly encouraged</color>.
+
+<color=#FFFFFFFF>Discrimination, discriminatory language, and personal abuse are not. </color>
+<color=#FF0000FF>Violators will be removed.</color>
+Direct enquiries to conduct@hackmud.com
+
+Usage: <color=#9B9B9BFF>user</color> <color=#FF00ECFF>ÈusernameÉ</color>
+Your users: <color=#9B9B9BFF>clonex10100</color>, <color=#9B9B9BFF>dang19</color> (2 / 2)
+Retired users:  (0 / 5)
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>user </color>clonex10100</color>
+Active user is now <color=#9B9B9BFF>clonex10100</color>
+
+
+<color=#9B9B9BFF>-autocompletes added-</color>
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>shutdown</color></color>
+<color=#9B9B9BFF>-terminal poweroff-
+</color>
+<color=#9B9B9BFF>-terminal active-
+</color>
+<color=#9B9B9BFF>-authentication success-</color>
+
+<color=#FF0000FF>:::TRUST COMMUNICATION::: </color><color=#FF8000FF>Larceny</color>, <color=#0070DDFF>laundering</color>, <color=#9B9B9BFF>theft of currency and information</color>, <color=#CACACAFF>deception</color>, <color=#FF96E0FF>betrayal</color>, and <color=#FFF404FF>backstabbing</color> are all part of hackmud, and <color=#1EFF00FF>strongly encouraged</color>.
+
+<color=#FFFFFFFF>Discrimination, discriminatory language, and personal abuse are not. </color>
+<color=#FF0000FF>Violators will be removed.</color>
+Direct enquiries to conduct@hackmud.com
+
+Usage: <color=#9B9B9BFF>user</color> <color=#FF00ECFF>ÈusernameÉ</color>
+Your users: <color=#9B9B9BFF>clonex10100</color>, <color=#9B9B9BFF>dang19</color> (2 / 2)
+Retired users:  (0 / 5)
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>user </color>clonex10100</color>
+Active user is now <color=#9B9B9BFF>clonex10100</color>
+
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>#dir</color></color>
+Opening the local script directory.
+/home/clonex10100/.config/hackmud/clonex10100/scripts
+vol vfx chats quiet
+vol vfx
+<color=#FFFFFFFF>>><color=#FF8000FF>gui</color>.<color=#1EFF00FF>vfx</color> {}</color>
+<color=#FF0000FF>Failure</color>
+Usage: <color=#FF8000FF>gui</color>.<color=#1EFF00FF>vfx</color> { <color=#00FFFFFF>bloom</color>:<color=#CACACAFF>È0-11É</color>, <color=#00FFFFFF>noise</color>:<color=#CACACAFF>È0-11É</color>, <color=#00FFFFFF>scan</color>:<color=#CACACAFF>È0-11É</color>, <color=#00FFFFFF>bend</color>:<color=#CACACAFF>È0-11É</color> }
+current: <color=#00FFFFFF>bloom</color>:<color=#FF00ECFF> 5</color>, <color=#00FFFFFF>noise</color>:<color=#FF00ECFF> 5</color>, <color=#00FFFFFF>scan</color>:<color=#FF00ECFF> 5</color>, <color=#00FFFFFF>bend</color>:<color=#FF00ECFF> 4</color>
+
+<color=#FFFFFFFF>>><color=#FF8000FF>gui</color>.<color=#1EFF00FF>vfx</color> {<color=#00FFFFFF>bloom</color>:<color=#FF00ECFF>2</color>}</color>
+<color=#1EFF00FF>Success</color>
+
+<color=#FFFFFFFF>>><color=#FF8000FF>gui</color>.<color=#1EFF00FF>vfx</color> { <color=#00FFFFFF>bloom</color>:<color=#FF00ECFF>0</color>, <color=#00FFFFFF>noise</color>:<color=#FF00ECFF>0</color>, <color=#00FFFFFF>scan</color>:<color=#FF00ECFF>0</color>, <color=#00FFFFFF>bend</color>:<color=#FF00ECFF>0</color> }</color>
+<color=#1EFF00FF>Success</color>
+
+<color=#FFFFFFFF>>><color=#FF8000FF>gui</color>.<color=#1EFF00FF>vfx</color> { <color=#00FFFFFF>bloom</color>:<color=#FF00ECFF>2</color>, <color=#00FFFFFF>noise</color>:<color=#FF00ECFF>2</color>, <color=#00FFFFFF>scan</color>:<color=#FF00ECFF>2</color>, <color=#00FFFFFF>bend</color>:<color=#FF00ECFF>2</color> }</color>
+<color=#1EFF00FF>Success</color>
+
+<color=#FFFFFFFF>>>#</color>
+<color=#FFFFFFFF>>>#</color>
+<color=#FFFFFFFF>>><color=#9B9B9BFF>help</color></color>
+To run a script, type the name of the script and press enter.
+Common scripts:
+  <color=#FF8000FF>scripts</color>.<color=#1EFF00FF>trust</color>      [see a list of all scripts provided by the Trust]
+  <color=#FF8000FF>scripts</color>.<color=#1EFF00FF>fullsec</color>    [see a list of all public FULLSEC scripts]
+  <color=#FF8000FF>accts</color>.<color=#1EFF00FF>balance</color>      [see your acct balance]
+  <color=#FF8000FF>accts</color>.<color=#1EFF00FF>xfer_gc_to</color>   [send <color=#CACACAFF></color><color=#9B9B9BFF>GC</color> to another user]
+
+Special shell commands:
+  <color=#9B9B9BFF>help</color>                 [see this again]
+  <color=#9B9B9BFF>user</color>                 [change users]
+  <color=#9B9B9BFF>create_user</color>          [create a user]
+  <color=#9B9B9BFF>retire_user</color>          [retire a user and free up a slot !NO CONFIRMATION!]
+  <color=#9B9B9BFF>clear</color>                [clear the window]
+  <color=#9B9B9BFF>shutdown</color>             [disconnect from terminal]
+  <color=#9B9B9BFF>chat_pass</color>            [provides one time pass for chat app connection]
+  <color=#9B9B9BFF>chat_revoke_tokens</color>   [revokes chat api tokens]
+  <color=#9B9B9BFF>store_list</color>           [displays purchaseable terminal upgrades]
+  <color=#9B9B9BFF>#help</color>                [architect command help]
+
+
+<color=#FFFFFFFF>>>#</color>
+<color=#FFFFFFFF>>><color=#9B9B9BFF>#help</color></color>
+<color=#9B9B9BFF>#help</color>                    [show this message]
+<color=#9B9B9BFF>#scripts</color> or <color=#9B9B9BFF>#</color>            [show all of your local scripts]
+<color=#9B9B9BFF>#dir</color>              [open the local directory with your scripts]
+<color=#9B9B9BFF>#edit</color> <script name>      [create or open a local script and edit it]
+<color=#9B9B9BFF>#DELETE</color> <script name>    [delete a local script with no confirmation prompt. BE CAREFUL!]
+<color=#9B9B9BFF>#up</color> <script name> delete [delete a script from the server]
+<color=#9B9B9BFF>#up</color> <script name> <optional:public> <optional:private> [upload a local script to the server]
+<color=#9B9B9BFF>#up</color> <script name> <optional:dry> [validate code, security level, and char count without pushing changes]
+<color=#9B9B9BFF>#up</color> <script name> <optional:shift> [confirm a security level change]
+<color=#9B9B9BFF>#down</color> <script name> [pulls server copy of script down. if local file exists, *.down.js will be created. this file will be overwritten by #down calls]
+
+
+<color=#FFFFFFFF>>>#</color>
+<color=#FFFFFFFF>>><color=#9B9B9BFF>#down</color></color>
+Invalid # command.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>#edit</color></color>
+Invalid # command.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>#down</color> crack</color>
+Script code written to:
+/home/clonex10100/.config/hackmud/clonex10100/scripts/crack.js
+
+<color=#FFFFFFFF>>>ls</color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color> PARSE ERROR <color=#9B9B9BFF>clonex10100</color>.<color=#1EFF00FF>ls</color>: script doesn't exist
+
+<color=#FFFFFFFF>>><color=#FF8000FF>scripts</color>.<color=#1EFF00FF>trust</color></color>
+<color=#FF8000FF>accts</color>.<color=#1EFF00FF>balance</color>            <color=#FF8000FF>chats</color>.<color=#1EFF00FF>tell</color>               <color=#FF8000FF>escrow</color>.<color=#1EFF00FF>stats</color>             <color=#FF8000FF>scripts</color>.<color=#1EFF00FF>ensure_highsec</color>   <color=#FF8000FF>scripts</color>.<color=#1EFF00FF>nullsec</color>          <color=#FF8000FF>sys</color>.<color=#1EFF00FF>specs</color>                
+<color=#FF8000FF>accts</color>.<color=#1EFF00FF>transactions</color>       <color=#FF8000FF>chats</color>.<color=#1EFF00FF>users</color>              <color=#FF8000FF>gui</color>.<color=#1EFF00FF>chats</color>                <color=#FF8000FF>scripts</color>.<color=#1EFF00FF>ensure_lowsec</color>    <color=#FF8000FF>scripts</color>.<color=#1EFF00FF>sys</color>              <color=#FF8000FF>sys</color>.<color=#1EFF00FF>status</color>               
+<color=#FF8000FF>accts</color>.<color=#1EFF00FF>xfer_gc_to</color>         <color=#FF8000FF>corps</color>.<color=#1EFF00FF>create</color>             <color=#FF8000FF>gui</color>.<color=#1EFF00FF>quiet</color>                <color=#FF8000FF>scripts</color>.<color=#1EFF00FF>ensure_midsec</color>    <color=#FF8000FF>scripts</color>.<color=#1EFF00FF>trust</color>            <color=#FF8000FF>sys</color>.<color=#1EFF00FF>upgrade_log</color>          
+<color=#FF8000FF>accts</color>.<color=#1EFF00FF>xfer_gc_to_caller</color>  <color=#FF8000FF>corps</color>.<color=#1EFF00FF>hire</color>               <color=#FF8000FF>gui</color>.<color=#1EFF00FF>vfx</color>                  <color=#FF8000FF>scripts</color>.<color=#1EFF00FF>ensure_nullsec</color>   <color=#FF8000FF>scripts</color>.<color=#1EFF00FF>user</color>             <color=#FF8000FF>sys</color>.<color=#1EFF00FF>upgrades</color>             
+<color=#FF8000FF>autos</color>.<color=#1EFF00FF>reset</color>              <color=#FF8000FF>corps</color>.<color=#1EFF00FF>manage</color>             <color=#FF8000FF>gui</color>.<color=#1EFF00FF>vol</color>                  <color=#FF8000FF>scripts</color>.<color=#1EFF00FF>fullsec</color>          <color=#FF8000FF>sys</color>.<color=#1EFF00FF>access_log</color>           <color=#FF8000FF>sys</color>.<color=#1EFF00FF>xfer_upgrade_to</color>      
+<color=#FF8000FF>chats</color>.<color=#1EFF00FF>channels</color>           <color=#FF8000FF>corps</color>.<color=#1EFF00FF>offers</color>             <color=#FF8000FF>kernel</color>.<color=#1EFF00FF>hardline</color>          <color=#FF8000FF>scripts</color>.<color=#1EFF00FF>get_access_level</color> <color=#FF8000FF>sys</color>.<color=#1EFF00FF>breach</color>               <color=#FF8000FF>trust</color>.<color=#1EFF00FF>me</color>                 
+<color=#FF8000FF>chats</color>.<color=#1EFF00FF>create</color>             <color=#FF8000FF>corps</color>.<color=#1EFF00FF>quit</color>               <color=#FF8000FF>market</color>.<color=#1EFF00FF>browse</color>            <color=#FF8000FF>scripts</color>.<color=#1EFF00FF>get_level</color>        <color=#FF8000FF>sys</color>.<color=#1EFF00FF>cull</color>                 <color=#FF8000FF>users</color>.<color=#1EFF00FF>active</color>             
+<color=#FF8000FF>chats</color>.<color=#1EFF00FF>join</color>               <color=#FF8000FF>corps</color>.<color=#1EFF00FF>top</color>                <color=#FF8000FF>market</color>.<color=#1EFF00FF>buy</color>               <color=#FF8000FF>scripts</color>.<color=#1EFF00FF>highsec</color>          <color=#FF8000FF>sys</color>.<color=#1EFF00FF>init</color>                 <color=#FF8000FF>users</color>.<color=#1EFF00FF>last_action</color>        
+<color=#FF8000FF>chats</color>.<color=#1EFF00FF>leave</color>              <color=#FF8000FF>escrow</color>.<color=#1EFF00FF>charge</color>            <color=#FF8000FF>market</color>.<color=#1EFF00FF>sell</color>              <color=#FF8000FF>scripts</color>.<color=#1EFF00FF>lowsec</color>           <color=#FF8000FF>sys</color>.<color=#1EFF00FF>loc</color>                  <color=#FF8000FF>users</color>.<color=#1EFF00FF>top</color>                
+<color=#FF8000FF>chats</color>.<color=#1EFF00FF>send</color>               <color=#FF8000FF>escrow</color>.<color=#1EFF00FF>confirm</color>           <color=#FF8000FF>market</color>.<color=#1EFF00FF>stats</color>             <color=#FF8000FF>scripts</color>.<color=#1EFF00FF>midsec</color>           <color=#FF8000FF>sys</color>.<color=#1EFF00FF>manage</color>               
+
+<color=#9B9B9BFF>-autocompletes added-</color>
+
+ensure_highsec ensure_lowsec ensure_midsec ensure_nullsec fullsec get_access_level get_level highsec lowsec midsec nullsec sys trust user
+ensure_highsec ensure_lowsec ensure_midsec ensure_nullsec fullsec get_access_level get_level highsec lowsec midsec nullsec sys trust user
+vol vfx chats quiet
+<color=#FFFFFFFF>>><color=#FF8000FF>gui</color>.<color=#1EFF00FF>vol</color> {}</color>
+<color=#FF0000FF>Failure</color>
+Usage: <color=#FF8000FF>gui</color>.<color=#1EFF00FF>vol</color> { <color=#00FFFFFF>sfx</color>:<color=#CACACAFF>È0-11É</color>, <color=#00FFFFFF>bgm</color>:<color=#CACACAFF>È0-11É</color> }
+current: <color=#00FFFFFF>sfx</color>:<color=#FF00ECFF> 11</color>, <color=#00FFFFFF>bgm</color>:<color=#FF00ECFF> 11</color>
+
+<color=#FFFFFFFF>>><color=#FF8000FF>gui</color>.<color=#1EFF00FF>vol</color> { <color=#00FFFFFF>bgm</color>:<color=#FF00ECFF>0</color>, <color=#00FFFFFF>sfx</color>:<color=#FF00ECFF>0</color> }</color>
+<color=#1EFF00FF>Success</color>
+
+<color=#FFFFFFFF>>>/level</color>
+Macro does not exist.
+
+<color=#FFFFFFFF>>><color=#FF8000FF>scripts</color>.<color=#1EFF00FF>user</color></color>
+<color=#9B9B9BFF>clonex10100</color>.<color=#1EFF00FF>acct</color>    <color=#9B9B9BFF>clonex10100</color>.<color=#1EFF00FF>con</color>     <color=#9B9B9BFF>clonex10100</color>.<color=#1EFF00FF>db</color>      <color=#9B9B9BFF>clonex10100</color>.<color=#1EFF00FF>login</color>   <color=#9B9B9BFF>clonex10100</color>.<color=#1EFF00FF>scrape</color>  
+<color=#9B9B9BFF>clonex10100</color>.<color=#1EFF00FF>auto</color>    <color=#9B9B9BFF>clonex10100</color>.<color=#1EFF00FF>crack</color>   <color=#9B9B9BFF>clonex10100</color>.<color=#1EFF00FF>decor</color>   <color=#9B9B9BFF>clonex10100</color>.<color=#1EFF00FF>magnara</color> <color=#9B9B9BFF>clonex10100</color>.<color=#1EFF00FF>t2crack</color> 
+
+<color=#9B9B9BFF>-autocompletes added-</color>
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>#down</color> acct</color>
+Script code written to:
+/home/clonex10100/.config/hackmud/clonex10100/scripts/acct.js
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>#down</color> auto</color>
+Script code written to:
+/home/clonex10100/.config/hackmud/clonex10100/scripts/auto.js
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>#down</color> con</color>
+Script code written to:
+/home/clonex10100/.config/hackmud/clonex10100/scripts/con.js
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>#down</color> crrack</color>
+<color=#FF0000FF>Code result was empty. No file was written.</color>
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>#down</color> crack</color>
+Script code written to:
+/home/clonex10100/.config/hackmud/clonex10100/scripts/crack.down.js
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>#down</color> db</color>
+Script code written to:
+/home/clonex10100/.config/hackmud/clonex10100/scripts/db.js
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>#down</color> decor</color>
+Script code written to:
+/home/clonex10100/.config/hackmud/clonex10100/scripts/decor.js
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>#down</color> login</color>
+Script code written to:
+/home/clonex10100/.config/hackmud/clonex10100/scripts/login.js
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>#down</color> magnara</color>
+Script code written to:
+/home/clonex10100/.config/hackmud/clonex10100/scripts/magnara.js
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>#down</color> scrape</color>
+Script code written to:
+/home/clonex10100/.config/hackmud/clonex10100/scripts/scrape.js
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>#down</color> t2crack</color>
+Script code written to:
+/home/clonex10100/.config/hackmud/clonex10100/scripts/t2crack.js
+
+<color=#FFFFFFFF>>>ls</color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color> PARSE ERROR <color=#9B9B9BFF>clonex10100</color>.<color=#1EFF00FF>ls</color>: script doesn't exist
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>user </color>dang19</color>
+Active user is now <color=#9B9B9BFF>dang19</color>
+
+
+<color=#FFFFFFFF>>><color=#FF8000FF>scripts</color>.<color=#1EFF00FF>user</color></color>
+<color=#9B9B9BFF>dang19</color>.<color=#1EFF00FF>glock</color>      <color=#9B9B9BFF>dang19</color>.<color=#1EFF00FF>withdrawel</color> 
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>#down</color> glock</color>
+Script code written to:
+/home/clonex10100/.config/hackmud/dang19/scripts/glock.js
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>#down</color> withdrawel</color>
+Script code written to:
+/home/clonex10100/.config/hackmud/dang19/scripts/withdrawel.js
