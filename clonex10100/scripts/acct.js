@@ -1,6 +1,7 @@
 function(context, args)
 {
 	var trans = #hs.accts.transactions({count:"all"});
+    //ubuntu
 	var lib = #fs.scripts.lib();
 
 	//List of potential answers
@@ -25,6 +26,7 @@ function(context, args)
 
 	if(args.o == null){
 		args.o = {};
+        //added from ubuntu
 	}
 
 	args.o.acct_nt = "";
