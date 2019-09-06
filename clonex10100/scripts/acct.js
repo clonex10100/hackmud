@@ -2,6 +2,9 @@ function(context, args)
 {
 	var trans = #hs.accts.transactions({count:"all"});
 	var lib = #fs.scripts.lib();
+    //added from arch
+    nteosanteosa
+    ntesoatsneoia
 
 	//List of potential answers
 	var potential = []
